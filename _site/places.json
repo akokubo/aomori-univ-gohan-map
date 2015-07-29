@@ -1,0 +1,154 @@
+[
+    {
+        "name":"青森大学レストラン＆売店",
+        "lat":40.783664,
+        "lng":140.780734,
+        "description":"1F売店、2F食堂です",
+        "type":"大学",
+        "icon":"cafetaria"
+    },
+    {
+        "name":"サンクス青森青大前店",
+        "lat":40.784517,
+        "lng":140.778995,
+        "description":"青森大学から一番近いコンビニです。24時間営業。<br><a href=\"http://as.chizumaru.com/200080/detailMap?account=200080&accmd=3&bid=20601079&adr=02201&x=506802.578&y=146806.509&lscl=4996&lrot=0&pgret=1&c26=1\">店舗情報</a>",
+        "type":"コンビニ",
+        "icon":"conveniencestore"
+    },
+    {
+        "name":"コンビニ＆リカータカハシ",
+        "lat":40.781460,
+        "lng":140.778796,
+        "description":"コンビニです。青森の地酒もあります。営業時間6：00-22：00。TEL 017-738-8177",
+        "type":"コンビニ",
+        "icon":"conveniencestore"
+    },
+    {
+        "name":"マックスバリュ幸畑店",
+        "lat":40.781337,
+        "lng":140.783694,
+        "description":"スーパーマーケットです。営業時間7:00-21:00。<a href=\"http://www.mv-tohoku.co.jp/stores/shop.php?id=20\">店舗情報</a>",
+        "type":"スーパーマケット",
+        "icon":"supermarket"
+    },
+    {
+        "name":"ほっかほっか亭 幸畑店",
+        "lat":40.784157,
+        "lng":140.778252,
+        "description":"お弁当屋さん。ほっかほっか亭です。営業時間9:00-22:00。TEL 017-738-1317。<a href=\"http://www.hhtmj.com/\">ほっかほっか亭公式サイト</a>",
+        "type":"弁当",
+        "icon":"fooddeliveryservice"
+    },
+    {
+        "name":"ふくふくフーズ",
+        "lat":40.783694,
+        "lng":140.778856,
+        "description":"お弁当屋さんです。TEL 017-764-2255。",
+        "type":"弁当",
+        "icon":"fooddeliveryservice"
+    },
+    {
+        "name":"konkitchen",
+        "lat":40.782715,
+        "lng":140.780523,
+        "description":"大学から一番近いイタリアンレストランです。営業時間11:00-21:00(ラストオーダー20:30)。ランチ11:00～15:00(ラストオーダー14:30)。TEL 017-752-6544。<a href=\"http://hitosara.com/0006035995/\">店舗紹介ページ</a>",
+        "type":"レストラン",
+        "icon":"restaurant_italian"
+    },
+    {
+        "name":"レストラン＆カフェひぐち",
+        "lat":40.782542,
+        "lng":140.785084,
+        "description":"レストランとカフェ。営業時間10:30-21:30。ランチ11:30-14:30、ティー14:30-17:00、ディナー17:00-21:30。TEL 017-738-5185",
+        "type":"レストラン",
+        "icon":"restaurant"
+    },
+    {
+        "name":"食事処千葉",
+        "lat":40.781307,
+        "lng":140.780743,
+        "description":"大学から一番近い定食屋さんです。ボリュームがあります。営業時間11:00-19:30。TEL 017-738-3407。",
+        "type":"食堂",
+        "icon":"restaurant"
+    },
+    {
+        "name":"樽幸",
+        "lat":40.780866,
+        "lng":140.780871,
+        "description":"大学の近くの定食屋さんです。営業時間11:00-20:00。TEL 017-738-3122。",
+        "type":"食堂",
+        "icon":"restaurant"
+    },
+    {
+        "name":"中華料理 吉順",
+        "lat":40.784666,
+        "lng":140.780119,
+        "description":"ボリューム満点の中華料理店です。営業時間11:00-15:00、17:00-24:00。TEL 017-738-8068。",
+        "type":"中華料理",
+        "icon":"restaurant_chinese"
+    },
+    {
+        "name":"ラーメンショップ幸畑店",
+        "lat":40.787564,
+        "lng":140.784840,
+        "description":"ラーメン屋です。営業時間6:30-18:00(水曜のみ14:00まで)。TEL 017-728-1929",
+        "type":"ラーメン",
+        "icon":"restaurant_chinese"
+    },
+    {
+        "name":"Oeuf ウフ",
+        "lat":40.783960,
+        "lng":140.777658,
+        "description":"フラン専門店です。営業時間10:00-18:00。日曜日定休。<a href=\"http://www.oeuf-aomori.com/\">店舗サイト</a>",
+        "type":"スイーツ",
+        "icon":"patisserie"
+    },
+    {
+        "name":"おうちDe猫カフェPoPoKi",
+        "lat":40.780839,
+        "lng":140.787087,
+        "description":"キャットルームとカフェルームとが分かれたセパレート型の猫カフェ。営業時間は公式サイトを参照。TEL 017-718-3383。<a href=\"http://www.popoki222.com/\">公式サイト</a>",
+        "type":"猫カフェ",
+        "icon":"cat-2"
+    },
+    {
+        "name":"居酒屋 魚々(じょじょ)",
+        "lat":40.781295,
+        "lng":140.779606,
+        "description":"居酒屋です。定休日日曜。営業時間17:00-24:00(ラストオーダー23:00)。平日は11:30-14:30(ラストオーダー14:00)も。TEL 017-728-7177。",
+        "type":"居酒屋",
+        "icon":"japanese-sake"
+    },
+    {
+        "name":"とり石",
+        "lat":40.781106,
+        "lng":140.780652,
+        "description":"焼き鳥のテイクアウトです。営業時間 16:00-20:30。TEL 080-2835-0601",
+        "type":"焼き鳥",
+        "icon":"takeaway"
+    },
+    {
+        "name":"青森幸畑郵便局",
+        "lat":40.781360,
+        "lng":140.781218,
+        "description":"大学に一番近い郵便局。<a href=\"http://map.japanpost.jp/pc/syousai.php?id=300184265000\">店舗情報</a>",
+        "type":"郵便",
+        "icon":"postal"
+    },
+    {
+        "name":"青森銀行幸畑出張所",
+        "lat":40.780605,
+        "lng":140.781225,
+        "description":"ATMの営業は7:00-21:00。<a href=\"http://www.a-bank.jp/contents/guide/tenpo_atm/shop/index.cgi?id=16&shop=all&page=1&area=JWEzJWIwJWEzJWIxJWExJWE1JWMwJWM0JWJmJWI5JWJiJWQ0JWExJWEyJWM1JWVjJWM0JWM1JWI3JWRhJWI3JWI0\">店舗情報</a>",
+        "type":"銀行",
+        "icon":"bank"
+    },
+    {
+        "name":"青森警察署八甲田交番",
+        "lat":40.785377,
+        "lng":140.782273,
+        "description":"大学に一番近い交番です。",
+        "type":"交番",
+        "icon":"police2"
+    }
+]
