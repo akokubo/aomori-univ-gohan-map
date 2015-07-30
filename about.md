@@ -4,16 +4,14 @@ title: アプリについて
 permalink: /about/
 ---
 
-## アプリについて
+# アプリについて
 
-青森大学周辺のご飯を食べられる/買えるところをマップにしました。  
-銀行や郵便局や交番なども掲載しています。
+青森大学周辺のご飯を食べられる/買えるところをマップにしました。銀行や郵便局や交番なども掲載しています。
 
 ## マップに表示されるアイコンについて
 
-[Map Icons Collection](https://mapicons.mapsmarker.com) ([CC BY SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.ja))で提供されているアイコンを使用しています。
-
 [![Map Icons Collection]({{ site.baseurl }}/images/miclogo-88x31.gif)](https://mapicons.mapsmarker.com)
+[Map Icons Collection](https://mapicons.mapsmarker.com) ([CC BY SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.ja))で提供されているアイコンを使用しています。
 
 ## 制作
 
