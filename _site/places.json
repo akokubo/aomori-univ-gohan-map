@@ -40,14 +40,6 @@
         "icon":"fooddeliveryservice"
     },
     {
-        "name":"ふくふくフーズ",
-        "lat":40.783694,
-        "lng":140.778856,
-        "description":"お弁当屋さんです。TEL 017-764-2255。",
-        "type":"弁当",
-        "icon":"fooddeliveryservice"
-    },
-    {
         "name":"konkitchen",
         "lat":40.782715,
         "lng":140.780523,
